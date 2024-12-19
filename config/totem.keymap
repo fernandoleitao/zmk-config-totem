@@ -122,10 +122,10 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-        &kp LC(GRAVE)  &trans         &kp LC(LS(E))  &trans         &trans           &kp HOME  &kp PAGE_DOWN  &kp PAGE_UP   &kp END    &kp PSCRN
-        &trans         &trans         &trans         &kp LS(LA(F))  &kp LC(LS(G))    &kp LEFT  &kp DOWN       &kp UP_ARROW  &kp RIGHT  &trans
-&trans  &trans         &kp LC(LS(X))  &trans         &kp LC(LS(V))  &trans           &trans    &trans         &trans        &trans     &trans     &kp PRINTSCREEN
-                                      &trans         &trans         &trans           &trans    &mo 3          &trans
+               &kp LC(Q)  &trans         &kp LC(LS(E))  &kp LC(P)      &kp LC(LS(P))    &kp HOME  &kp PAGE_DOWN  &kp PAGE_UP   &kp END    &kp PSCRN
+               &trans     &trans         &trans         &kp LS(LA(F))  &kp LC(LS(G))    &kp LEFT  &kp DOWN       &kp UP_ARROW  &kp RIGHT  &trans
+&kp LC(GRAVE)  &trans     &kp LC(LS(X))  &trans         &kp LC(LS(V))  &kp LC(LA(B))    &trans    &trans         &trans        &trans     &trans     &kp PRINTSCREEN
+                                         &trans         &trans         &trans           &trans    &mo 3          &trans
             >;
         };
 
