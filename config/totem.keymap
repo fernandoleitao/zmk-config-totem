@@ -29,7 +29,14 @@
 };
 
 / {
-    combos { compatible = "zmk,combos"; };
+    combos {
+        compatible = "zmk,combos";
+
+        combo_gui {
+            bindings = <&kp LEFT_GUI>;
+            key-positions = <34 35>;
+        };
+    };
 
     macros {
         gif: gif {
