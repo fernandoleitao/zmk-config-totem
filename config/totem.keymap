@@ -34,7 +34,7 @@
 
         combo_gui {
             bindings = <&kp LEFT_GUI>;
-            key-positions = <34 35>;
+            key-positions = <10 19>;
         };
     };
 
