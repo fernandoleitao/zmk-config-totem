@@ -140,10 +140,10 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-        &trans  &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_NUMBER_0    &kp F1    &kp F2    &kp F3        &kp F4     &kp F5
-        &trans  &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &trans             &kp LEFT  &kp DOWN  &kp UP_ARROW  &kp RIGHT  &kp F11
-&trans  &trans  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &trans             &kp F6    &kp F7    &kp F8        &kp F9     &kp F10  &kp F12
-                                 &trans           &trans           &mo 3              &trans    &trans    &trans
+        &trans  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0    &kp F1    &kp F2    &kp F3        &kp F4     &kp F5
+        &trans  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &trans          &kp LEFT  &kp DOWN  &kp UP_ARROW  &kp RIGHT  &kp F11
+&trans  &trans  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &trans          &kp F6    &kp F7    &kp F8        &kp F9     &kp F10  &kp F12
+                              &trans        &trans        &mo 3           &trans    &trans    &trans
             >;
         };
 
