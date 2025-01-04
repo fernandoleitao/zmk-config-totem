@@ -107,7 +107,7 @@
 
             bindings = <
            &kp Q  &kp W  &kp F       &kp P            &kp B         &kp J      &kp L        &kp U             &kp Y       &kp MINUS
-           &kp A  &kp R  &kp S       &kp T            &kp G         &kp M      &kp N        &kp E             &kp I       &kp O
+           &kp A  &kp R  &kp S       &mt LCTRL T      &kp G         &kp M      &mt LCTRL N  &kp E             &kp I       &kp O
 &kp GRAVE  &kp Z  &kp X  &kp C       &kp D            &kp V         &kp K      &kp H        &comma_semicolon  &dot_colon  &slash_pipe  &kp APOS
                          &kp ESCAPE  &lt 3 BACKSPACE  &kp DELETE    &kp ENTER  &lt 1 SPACE  &lt 2 TAB
             >;
