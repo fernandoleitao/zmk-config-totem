@@ -40,13 +40,7 @@
         change_base_alt {
             bindings = <&tog 1>;
             key-positions = <32 34 33 35 36 37>;
-            layers = <0>;
-        };
-
-        change_to_base {
-            bindings = <&tog 0>;
-            key-positions = <32 34 33 35 36 37>;
-            layers = <1>;
+            layers = <0 1>;
         };
     };
 
