@@ -124,10 +124,10 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-           &kp Q       &kp W             &kp E           &kp R         &kp T              &kp Y        &kp U        &kp I           &kp O        &kp P
-           &mt LGUI A  &mt LEFT_SHIFT S  &mt LEFT_ALT D  &mt LCTRL F   &kp G              &kp H        &mt LCTRL J  &mt LEFT_ALT K  &mt LSHFT L  &mt LGUI SEMICOLON
-&kp GRAVE  &kp Z       &kp X             &kp C           &kp V         &kp B              &kp N        &kp M        &kp COMMA       &kp PERIOD   &kp MINUS           &kp SQT
-                                         &l_parent       &lt 3 ESCAPE  &lt 2 BACKSPACE    &lt 1 SPACE  &kp ENTER    &r_parent
+        &kp Q       &kp W             &kp E             &kp R            &kp T           &kp Y        &kp U        &kp I              &kp O        &kp P
+        &mt LGUI A  &mt LEFT_SHIFT S  &mt LEFT_ALT D    &mt LCTRL F      &kp G           &kp H        &mt LCTRL J  &mt LEFT_ALT K     &mt LSHFT L  &mt LGUI SEMICOLON
+&gresc  &kp Z       &kp X             &kp C             &kp V            &kp B           &kp N        &kp M        &kp COMMA          &kp PERIOD   &kp MINUS           &kp SQT
+                                      &kp LEFT_BRACKET  &lt 3 BACKSPACE  &lt 2 DELETE    &lt 1 ENTER  &kp SPACE    &kp RIGHT_BRACKET
             >;
         };
 
